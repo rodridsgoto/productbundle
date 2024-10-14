@@ -1,0 +1,8 @@
+.searcher {
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+}
+#product-search-results{
+    border: 1px;
+}
